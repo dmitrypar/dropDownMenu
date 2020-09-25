@@ -1,0 +1,87 @@
+.inputFilter {
+  font-size: 16px; /* Increase font-size */
+  padding: 12px 0 12px 0; /* Add some padding */
+  border: 1px solid #ddd; /* Add a grey border */
+  border-radius: 0.3em;
+  display: flex;
+  flex-wrap: wrap;
+  position: relative;
+}
+
+.myInput {
+  border: none; /* Убираем рамку */
+  outline: none; /* Убираем свечение в Chrome и Safari */
+  padding: 0 5px 0 2px; /* Add some padding */
+  justify-content: center;
+  margin-left: 5px;
+}
+
+.chosedItems {
+  border: none; /* Убираем рамку */
+  outline: none; /* Убираем свечение в Chrome и Safari */
+  padding: 0 5px 0 2px; /* Add some padding */
+  margin: 0.2em 0 0 0.2em;
+  background-color: rgba(113, 153, 185, 0.2);
+  color: rgba(7, 7, 7, 0.7);
+  border-radius: 0.2em;
+}
+
+.dropdownbutton {
+  margin: 5px;
+  border: none;
+  outline: none;
+  color: rgba(0, 0, 0, 0.5);
+  position: absolute;
+  right: 0;
+  top: 0;
+  padding: 5px;
+}
+
+.listItem {
+  /* Remove default list styling */
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  overflow: auto;
+  height: 350px;
+}
+
+.listItemlink {
+  border: 1px solid #ddd; /* Add a border to all links */
+  margin-top: -1px; /* Prevent double borders */
+  background-color: #f6f6f6; /* Grey background color */
+  padding: 12px; /* Add some padding */
+  text-decoration: none; /* Remove default text underline */
+  font-size: 18px; /* Increase the font-size */
+  color: black; /* Add a black text color */
+  display: block; /* Make it into a block element to fill the whole list */
+}
+
+.listItemlink:hover {
+  background-color: rgba(
+    113,
+    153,
+    185,
+    0.2
+  ); /* Add a hover effect to all links, except for headers */
+}
+
+.isHighlighted {
+  background-color: rgba(
+    113,
+    153,
+    185,
+    0.2
+  ); 
+}
+
+.delElemItem {
+  padding: 0 0 0 0.3em;
+  font-size: 1.2em;
+  font-weight: 600;
+  color: rgba(7, 7, 7, 0.3);
+}
+
+.delElemItem:hover {
+  color: rgb(7, 7, 7);
+}
