@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dropDownMenu/static/css/main.7b3f20ee.chunk.css",
+    "main.js": "/dropDownMenu/static/js/main.ba96d236.chunk.js",
+    "main.js.map": "/dropDownMenu/static/js/main.ba96d236.chunk.js.map",
+    "runtime-main.js": "/dropDownMenu/static/js/runtime-main.01c4fc6d.js",
+    "runtime-main.js.map": "/dropDownMenu/static/js/runtime-main.01c4fc6d.js.map",
+    "static/js/2.ab30f356.chunk.js": "/dropDownMenu/static/js/2.ab30f356.chunk.js",
+    "static/js/2.ab30f356.chunk.js.map": "/dropDownMenu/static/js/2.ab30f356.chunk.js.map",
+    "index.html": "/dropDownMenu/index.html",
+    "precache-manifest.2827867b6ac8c7a53369942aee939f61.js": "/dropDownMenu/precache-manifest.2827867b6ac8c7a53369942aee939f61.js",
+    "service-worker.js": "/dropDownMenu/service-worker.js",
+    "static/css/main.7b3f20ee.chunk.css.map": "/dropDownMenu/static/css/main.7b3f20ee.chunk.css.map",
+    "static/js/2.ab30f356.chunk.js.LICENSE.txt": "/dropDownMenu/static/js/2.ab30f356.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01c4fc6d.js",
+    "static/js/2.ab30f356.chunk.js",
+    "static/css/main.7b3f20ee.chunk.css",
+    "static/js/main.ba96d236.chunk.js"
+  ]
+}
